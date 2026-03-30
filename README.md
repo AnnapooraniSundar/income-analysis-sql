@@ -15,7 +15,16 @@ The dataset contains demographic and employment-related information such as age,
 
 2. Individuals with higher levels of education, particularly professional school, are more likely to earn >50K.
 
-3. The most reliable high-income segment is individuals with professional school education working in professional specialty roles.
+3. The most reliable high-income segment is individuals with professional school education working in professional specialty roles, combining a high-income ratio of 0.776 with a substantial sample size.
+
+## SQL Queries
+The main analysis queries used in this project are stored in the `queries.sql` file.
+
+## Skills Demonstrated
+- SQL filtering and aggregation
+- GROUP BY and HAVING
+- Conditional aggregation with CASE WHEN
+- Business insight generation from data
 
 # Conclusion
 Income levels are influenced by a combination of age, education, and occupation. Larger and more stable segments provide more reliable insights than smaller groups with extreme values.
